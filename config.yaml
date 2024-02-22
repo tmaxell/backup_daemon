@@ -1,0 +1,3 @@
+sourceDirectory: /home/tmaxell/test/original
+backupDirectory: /home/tmaxell/test/backup
+frequency: minutely
